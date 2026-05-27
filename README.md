@@ -1,6 +1,13 @@
-# Olivier Desruelle — Xcannes
+# Olivier Desruelle — XCANNES
+Web3 • XRPL • Automation • AI Workflows • SaaS
 
 ## 🚀 Web3 Developer & Automation Builder
+![XRPL](https://img.shields.io/badge/XRPL-Web3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Frontend-yellow)
+![NodeJS](https://img.shields.io/badge/Node.js-Backend-green)
+![Python](https://img.shields.io/badge/Python-Automation-blue)
+![n8n](https://img.shields.io/badge/n8n-Workflow-orange)
+![Stripe](https://img.shields.io/badge/Stripe-Payments-purple)
 
 Founder & Developer of Xcannes — Web3 platform built on XRPL ecosystem.
 
