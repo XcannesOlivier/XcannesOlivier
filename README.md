@@ -70,3 +70,12 @@ Automated workflow generating personalized PDF reports and slides from forms.
 
 Building scalable Web3 products and automation systems with real-world utility.
 
+---
+
+## 📊 GitHub Stats
+
+![Olivier's GitHub stats](https://github-readme-stats.vercel.app/api?username=XcannesOlivier&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XcannesOlivier&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=XcannesOlivier&theme=tokyonight)
