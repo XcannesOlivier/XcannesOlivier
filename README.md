@@ -2,7 +2,7 @@
 
 ## 🚀 Web3 Developer & Automation Builder
 
-Founder & Developer of Xcannes DEX — Educational Web3 platform built on XRPL, XUMM & Stripe.
+Founder & Developer of Xcannes — Web3 platform built on XRPL ecosystem.
 
 I build:
 - Web3 applications
@@ -44,7 +44,7 @@ I build:
 
 ## 🚧 Current Projects
 
-### Xcannes DEX
+### XCANNES
 Educational crypto platform focused on XRPL onboarding and decentralized tools.
 
 ### Form-to-PDF Automation
